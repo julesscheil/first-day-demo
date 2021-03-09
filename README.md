@@ -1,1 +1,3 @@
 # first-day-demo
+This is a demo of how to add a repo to personal GitHub
+Activity 03-Ins_Git in GT-VIR...
